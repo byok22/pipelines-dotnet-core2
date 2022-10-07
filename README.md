@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/kevindarkfire/Proyecto%20Inicio/_apis/build/status/byok22.pipelines-dotnet-core2?branchName=master)](https://dev.azure.com/kevindarkfire/Proyecto%20Inicio/_build/latest?definitionId=3&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
